@@ -1,0 +1,13 @@
+git ...: agregar archivos para el commmit
+git init: ... un repositorio ...
+git ...: asignar un repositorio remoto al repositorio local
+git ...: ver a que repositorio remoto apunta el repo local
+git clone: ...
+git commit: ...
+git ...: poner mi repo local al dia
+git push: 
+git ...: ver el estado actual de los cambios/repositorio
+git log:
+git ...: crear una nueva branch/ver las que existen
+git checkout:
+git merge:
